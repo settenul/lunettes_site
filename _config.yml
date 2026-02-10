@@ -1,0 +1,11 @@
+title: LUNETTES
+description: Art-rock from Dover, New Hampshire
+theme: minima
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+author:
+  name: T
+  email: thereallunettes@gmail.com
