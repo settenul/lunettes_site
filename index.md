@@ -2,20 +2,16 @@
 layout: default
 title: LUNETTES
 ---
-
-
-  <script charset="utf-8" src="https://widgetv3.bandsintown.com/main.min.js"></script>
-  <a class="bit-widget-initializer"
-    
+<div id="widget-container">
+	<script charset="utf-8" src="https://widgetv3.bandsintown.com/main.min.js"></script>
+	<a class="bit-widget-initializer"
 	data-artist-name="id_15631877"
-	
 	data-events-to-display=""
 	data-background-color="rgba(10,52,63,1)"
 	data-separator-color="rgba(255,134,0,1)"
 	data-text-color="rgba(255,255,255,1)"
 	data-font="Didot"
 	data-auto-style="true"
-	
 	data-button-label-capitalization="uppercase"
 	data-header-capitalization="uppercase"
 	data-location-capitalization="uppercase"
@@ -28,14 +24,12 @@ title: LUNETTES
 	data-display-start-time="false"
 	data-social-share-icon="true"
 	data-display-limit="all"
-	
 	data-date-format="MMM. D, YYYY"
 	data-date-orientation="horizontal"
 	data-date-border-color="#4A4A4A"
 	data-date-border-width="1px"
 	data-date-capitalization="capitalize"
 	data-date-border-radius="10px"
-	
 	data-event-ticket-cta-size="medium"
 	data-event-custom-ticket-text=""
 	data-event-ticket-text="TICKETS"
@@ -45,12 +39,10 @@ title: LUNETTES
 	data-event-ticket-cta-border-color="rgba(74,74,74,1)"
 	data-event-ticket-cta-border-width="1px"
 	data-event-ticket-cta-border-radius="2px"
-	
 	data-sold-out-button-text-color="rgba(255,255,255,1)"
 	data-sold-out-button-background-color="rgba(74,74,74,1)"
 	data-sold-out-button-border-color="rgba(74,74,74,1)"
 	data-sold-out-button-clickable="true"
-	
 	data-event-rsvp-position="left"
 	data-event-rsvp-cta-size="medium"
 	data-event-rsvp-only-show-icon="false"
@@ -61,7 +53,6 @@ title: LUNETTES
 	data-event-rsvp-cta-border-color="rgba(74,74,74,1)"
 	data-event-rsvp-cta-border-width="1px"
 	data-event-rsvp-cta-border-radius="2px"
-	
 	data-follow-section-position="top"
 	data-follow-section-alignment="center"
 	data-follow-section-header-text="Get updates on new shows, new music, and more"
@@ -73,7 +64,6 @@ title: LUNETTES
 	data-follow-section-cta-border-color="rgba(74,74,74,1)"
 	data-follow-section-cta-border-width="0px"
 	data-follow-section-cta-border-radius="2px"
-	
 	data-play-my-city-position="bottom"
 	data-play-my-city-alignment="center"
 	data-play-my-city-header-text="Don’t see a show near you?"
@@ -85,7 +75,6 @@ title: LUNETTES
 	data-play-my-city-cta-border-color="rgba(74,74,74,1)"
 	data-play-my-city-cta-border-width="0px"
 	data-play-my-city-cta-border-radius="2px"
-	
 	data-optin-font=""
 	data-optin-text-color=""
 	data-optin-bg-color=""
@@ -94,15 +83,15 @@ title: LUNETTES
 	data-optin-cta-border-width=""
 	data-optin-cta-border-radius=""
 	data-optin-cta-border-color=""
-	
 	data-language="en"
 	data-layout-breakpoint="900"
 	data-app-id="8142c41fa23cc6895b7868eefe5d86c6"
 	data-affil-code=""
 	data-bit-logo-position="hidden"
 	data-bit-logo-color="rgba(255,255,255,1)"
-	
     ></a>
+</div>
+
 
 # STREAM WILD AT HEART NOW - LINKS BELOW
 
