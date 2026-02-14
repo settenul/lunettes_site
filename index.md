@@ -98,9 +98,7 @@ title:
     ></a>
 </div>
 
-<iframe src="https://kunaki.com/sales.asp?PID=PX0065TBVR&pp=1" title="WILD AT HEART CD" width="100%" height="500">
-  <p>Your browser does not support iframes.</p>
-</iframe>
+<iframe src="https://www.example.com" width="600" height="400" title="Description of the embedded website"></iframe>
 
 
 # STREAM WILD AT HEART
