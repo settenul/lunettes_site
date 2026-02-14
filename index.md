@@ -2,7 +2,7 @@
 layout: default
 title: 
 ---
-![Lunettes Logo](blank_lunettes_logo.png "Lunettes Logo")
+![Lunettes Logo](lun.png "Lunettes Logo")
 
 
 
